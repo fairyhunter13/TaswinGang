@@ -74,7 +74,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - [`Zduniusz-24HourClock`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock) `1.0.0`
 - [`Zduniusz-LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) `1.0.0`
 
-### Mod konflik menyebabkan disconnect saat menyambungkan ke multiplayer
+### Mod berkonflik menyebabkan disconnect saat menyambungkan ke multiplayer
 - [`Exoni-LethalRebinding*`](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
