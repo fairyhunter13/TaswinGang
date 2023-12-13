@@ -78,7 +78,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - [`Exoni-LethalRebinding*`](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
-### Mod yang kurang cocok
+### Mod yang kurang diminati
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 ## [1.0.2] - 30/11/2023
