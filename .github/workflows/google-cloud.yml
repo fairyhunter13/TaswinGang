@@ -1,52 +1,27 @@
-name: Release
+name: Google Cloud Storage
 
 on:
   push:
-    tags:
-      - "v*"
+    branches:
+    - main
 
 jobs:
-  build:
+  setup-build-publish-deploy:
+    name: Setup, Build, Publish, and Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
 
-      # Add your build steps here
+    - name: Checkout
+      uses: actions/checkout@v2
 
-      - name: Archive BepInEx folder
-        uses: actions/upload-artifact@v2
-        with:
-          name: BepInEx
-          path: path/to/BepInEx  # Replace with the actual path to your BepInEx folder
+    # Setup gcloud CLI
+    - uses: google-github-actions/setup-gcloud@master
+      with:
+        service_account_email: ${{ secrets.GCP_EMAIL }}
+        service_account_key: ${{ secrets.GCP_KEY }}
 
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download BepInEx folder
-        uses: actions/download-artifact@v2
-        with:
-          name: BepInEx
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-
-      - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./BepInEx.zip
-          asset_name: BepInEx.zip
-          asset_content_type: application/zip
+    - name: Deploy
+      working-directory: ./site
+      run: |
+        gsutil cp -r . gs://nodematic.com
+        gsutil web set -m index.html -e 404.html gs://nodematic.com
