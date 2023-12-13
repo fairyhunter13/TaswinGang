@@ -5,7 +5,7 @@
 - Ekstrak mods di: `Lethal Company\BepInEx`
 - Mods yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
-## 13/12/2023
+## 1.4.0 - 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
 
@@ -40,7 +40,7 @@
 - `Exoni-LethalRebinding-1.0.0*` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
 
-## 30/11/2023
+## 1.3.0 - 30/11/2023
 ### Mods yang dicoba dan diuji pada Lethal Company v40:
 - Ditambahkan [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
 - Ditambahkan [`5Bit-FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) `1.0.1`
