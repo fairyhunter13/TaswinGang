@@ -37,7 +37,7 @@
 - Pembaruan `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
 	
 ### Mods yang ditambahkan kembali
-- `Exoni-LethalRebinding-1.0.0`* diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
+- `Exoni-LethalRebinding-1.0.0*` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
 
 ## 30/11/2023
@@ -73,7 +73,7 @@
 - Ditambahkan [`Zduniusz-LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) `1.0.0`
 
 ### Mods konflik menyebabkan disconnect saat menyambungkan ke multiplayer
-- [`Exoni-LethalRebinding`*](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
+- [`Exoni-LethalRebinding*`](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
 ### Mods aneh (secara estetis)
