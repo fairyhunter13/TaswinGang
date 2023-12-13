@@ -56,6 +56,7 @@
 - Ditambahkan [`loaf-loafpack`](https://thunderstore.io/c/lethal-company/p/loaf/loafpack) `1.0.0`
 - Ditambahkan [`malco-Lategame_Upgrades`](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades) `1.3.1`
 - Ditambahkan [`Mom_Llama-Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) `0.1.5`
+> Catatan: Ternyata sebelumnya tidak diinstal.
 - Ditambahkan [`Monkeytype-HideChat`](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat) `1.0.0`
 - Ditambahkan [`NotAtomicBomb-Terminal_Clock`](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock) `1.0.2`
 - Ditambahkan [`notnotnotswipez-MoreCompany`](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany) `1.4.2`
@@ -76,5 +77,5 @@
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
   
 ## Informasi dan legenda
-- `Mom_Llama-Lethal_Company_Enhancer` `0.1.5` Ternyata sebelumnya tidak diinstal.
+- `Mom_Llama-Lethal_Company_Enhancer` `0.1.5` 
 - * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
