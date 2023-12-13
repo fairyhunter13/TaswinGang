@@ -43,7 +43,7 @@
 
 ## 30/11/2023
 ### Mods yang dicoba dan diuji pada Lethal Company v40:
-- [`2018-LC_API-2.0.0`](https://thunderstore.io/c/lethal-company/p/2018/LC_API)
+- [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
 - [`5Bit-FPSSpectate-1.0.1`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)
 - [`5Bit-VoiceHUD-1.0.4 di`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)
 - [`alexanderjoe-BiggeryBattery-1.0.2`](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)
@@ -72,12 +72,12 @@
 - [`Zduniusz-24HourClock-1.0.0`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)
 - [`Zduniusz-LBtoKG-1.0.0`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)
 
-Mods konflik menyebabkan disconnect saat menyambungkan ke multiplayer:
-Exoni-LethalRebinding-1.0.0* (https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)
-oknorton-LethalCompanyBetterScaling-1.3.2 (https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)
+### Mods konflik menyebabkan disconnect saat menyambungkan ke multiplayer
+- [`Exoni-LethalRebinding`*](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
+- [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
-Mods aneh (secara estetis):
-MonAmiral-PlayerDogModel-0.0.1 (https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel)
+### Mods aneh (secara estetis):
+- `[MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 Informasi dan legenda:
 - Mom_Llama-Lethal_Company_Enhancer-0.1.5 Ternyata sebelumnya tidak diinstal.
