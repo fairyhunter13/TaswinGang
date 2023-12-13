@@ -12,28 +12,45 @@ Perubahan mods:
 ==============================
 
 
-## [13/12/2023]
+### [13/12/2023]
 - Perubahan konfigurasi mods (config):
 - twig.latecompany.cfg: Late join orbit only = false
 - VoiceHUD.cfg: Colors enabled = true
 
 Pembaruan mods saat Lethal Company v45:
+
 2018-LC_API-2.1.2 (sebelumnya v2.0.0)
+
 FlipMods-ReservedWalkieSlot-1.4.6 (sebelumnya v1.2.2)
+
 anormaltwig-LateCompany-1.0.6 (sebelumnya v1.0.4)
+
 Blorb-WeatherMultipliers-1.0.0 (sebelumnya v0.2.0)
+
 EladNLG-EladsHUD-1.1.0 (sebelumnya v1.0.0)
+
 FlipMods-HotbarPlus-1.3.2 (sebelumnya v1.2.8)
+
 FlipMods-ReservedFlashlightSlot-1.4.5 (sebelumnya v1.3.2)
+
 FlipMods-ReservedItemSlotCore-1.4.4 (sebelumnya v1.2.9)
+
 FlipMods-ReservedWalkieSlot-1.4.6 (sebelumnya v1.2.2)
+
 malco-Lategame_Upgrades-2.5.1 (sebelumnya v1.3.1)
+
 Mom_Llama-Lethal_Company_Enhancer-0.1.8 (sebelumnya v0.1.5)
+
 NotAtomicBomb-Terminal_Clock-1.0.5 (sebelumnya v1.0.2)
+
 notnotnotswipez-MoreCompany-1.7.2 (sebelumnya v1.4.2)
+
 Renegades-FlashlightToggle-1.4.1 (sebelumnya v1.3.1)
+
 Sligili-More_Emotes-1.1.3 (sebelumnya v1.0.0)
+
 stormytuna-KindTeleporters-1.0.2 (sebelumnya v1.0.1)
+
 	
 Mods yang ditambahkan kembali:
 Exoni-LethalRebinding-1.0.0* diubah ke Bobbie-LethalRebinding-1.0.0 (https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
