@@ -1,9 +1,11 @@
 # Changelog
-Semua perubahan didokumentasikan pada berkas ini.
+Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
+
+# Catatan
 - Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
 - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
-- Ekstrak mods di: `Lethal Company\BepInEx`.
-- Mods yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`.
+- Ekstrak mods di: `Lethal Company\BepInEx`
+- Mods yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
 ## [1.4.0] - 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
