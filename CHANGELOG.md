@@ -8,18 +8,6 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
 ## [2.0.0] - 13/12/2023
-### Mod yang diubah konfigurasinya pada folder `config`
-- `twig.latecompany.cfg`
-
-  ```bash
-  Late join orbit only = false
-  ```
-- `VoiceHUD.cfg`
-
-  ```bash
-  Colors enabled = true
-  ```
-
 ### Mod yang diperbarui saat Lethal Company v45
 - `2018-LC_API` dari `2.0.0` ke `2.1.2`
 - `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
@@ -37,6 +25,18 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - `Renegades-FlashlightToggle` dari `1.3.1` ke `1.4.1`
 - `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
 - `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
+
+### Mod yang diubah konfigurasinya pada folder `config`
+- `twig.latecompany.cfg`
+
+  ```bash
+  Late join orbit only = false
+  ```
+- `VoiceHUD.cfg`
+
+  ```bash
+  Colors enabled = true
+  ```
 	
 ### Mod yang ditambahkan kembali
 - `Exoni-LethalRebinding-1.0.0*` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
