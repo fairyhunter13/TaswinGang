@@ -13,7 +13,7 @@
 
 - `VoiceHUD.cfg`
 - ```console
-- Colors enabled = true```
+  Colors enabled = true```
 
 ### Pembaruan mods saat Lethal Company v45:
 
