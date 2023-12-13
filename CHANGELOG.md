@@ -89,7 +89,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |VZP_Mods-BetterLethality|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
 |Zduniusz-24HourClock|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |Zduniusz-LBtoKG|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)|
-> Ternyata mod **Mom_Llama-Lethal_Company_Enhancer** tidak terinstal.
+> **Mom_Llama-Lethal_Company_Enhancer** tidak terinstal tanpa disengaja.
 
 ### Mod yang menyebabkan crash saat mencoba bergabung sesi multipemain
 |Nama Mod|Versi|Sumber|
