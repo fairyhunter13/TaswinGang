@@ -37,7 +37,7 @@
 	
 ### Mods yang ditambahkan kembali
 
-- `Exoni-LethalRebinding-1.0.0`* diubah ke `[Bobbie-LethalRebinding-1.0.0](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)`
+- `Exoni-LethalRebinding-1.0.0`* diubah ke `[Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 oknorton-LethalCompanyBetterScaling-1.4.0 dari 1.3.2)
 
 
