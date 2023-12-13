@@ -9,12 +9,12 @@
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
 
-  ```json
+  ```bash
   Late join orbit only = false
   ```
 - `VoiceHUD.cfg`
 
-  ```json
+  ```bash
   Colors enabled = true
   ```
 
