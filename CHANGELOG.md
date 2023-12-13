@@ -8,7 +8,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
 ## [2.0.0] - 13/12/2023
-### Perubahan konfigurasi mods pada folder `config`
+### Mod yang diubah konfigurasinya pada folder `config`
 - `twig.latecompany.cfg`
 
   ```bash
@@ -20,7 +20,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
   Colors enabled = true
   ```
 
-### Pembaruan mod saat Lethal Company v45
+### Mod yang diperbarui saat Lethal Company v45
 - `2018-LC_API` dari `2.0.0` ke `2.1.2`
 - `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
 - `anormaltwig-LateCompany` dari `1.0.4` ke `1.0.6`
@@ -38,12 +38,12 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
 - `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
 	
-### Mods yang ditambahkan kembali
+### Mod yang ditambahkan kembali
 - `Exoni-LethalRebinding-1.0.0*` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
 
 ## [1.0.3] - 30/11/2023
-### Mod yang ditambahkan dan teruji pada Lethal Company v40:
+### Mod yang ditambahkan dan teruji aman saat Lethal Company v40:
 - [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
 - [`5Bit-FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) `1.0.1`
 - [`5Bit-VoiceHUD`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD) `1.0.4`
@@ -74,11 +74,11 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - [`Zduniusz-24HourClock`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock) `1.0.0`
 - [`Zduniusz-LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) `1.0.0`
 
-### Mod berkonflik menyebabkan disconnect saat menyambungkan ke multiplayer
+### Mod yang menyebabkan crash saat mencoba bergabung sesi multipemain
 - [`Exoni-LethalRebinding*`](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
-### Mod aneh (secara estetis)
+### Mod yang kurang cocok
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 ## [1.0.2] - 30/11/2023
