@@ -9,22 +9,22 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.0] - 13/12/2023
 ### Mod yang diperbarui saat Lethal Company v45
-- `2018-LC_API` dari `2.0.0` ke `2.1.2`
-- `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
-- `anormaltwig-LateCompany` dari `1.0.4` ke `1.0.6`
-- `Blorb-WeatherMultipliers` dari `0.2.0` ke `1.0.0`
+- `2018-LC_API` dari `2.0.0` menjadi `2.1.2`
+- `FlipMods-ReservedWalkieSlot` dari `1.2.2` menjadi `1.4.6`
+- `anormaltwig-LateCompany` dari `1.0.4` menjadi `1.0.6`
+- `Blorb-WeatherMultipliers` dari `0.2.0` menjadi `1.0.0`
 - `EladNLG-EladsHUD` dari `1.0.0` ke  `1.1.0`
-- `FlipMods-HotbarPlus` dari `1.2.8` ke `1.3.2`
-- `FlipMods-ReservedFlashlightSlot` dari `1.3.2` ke `1.4.5`
-- `FlipMods-ReservedItemSlotCore` dari `1.2.9` ke `1.4.4`
-- `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
-- `malco-Lategame_Upgrades` dari `1.3.1` ke `2.5.1`
-- `Mom_Llama-Lethal_Company_Enhancer` dari `0.1.5` ke `0.1.8`
-- `NotAtomicBomb-Terminal_Clock` dari `1.0.2` ke `1.0.5`
-- `notnotnotswipez-MoreCompany` dari `1.4.2` ke `1.7.2`
-- `Renegades-FlashlightToggle` dari `1.3.1` ke `1.4.1`
-- `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
-- `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
+- `FlipMods-HotbarPlus` dari `1.2.8` menjadi `1.3.2`
+- `FlipMods-ReservedFlashlightSlot` dari `1.3.2` menjadi `1.4.5`
+- `FlipMods-ReservedItemSlotCore` dari `1.2.9` menjadi `1.4.4`
+- `FlipMods-ReservedWalkieSlot` dari `1.2.2` menjadi `1.4.6`
+- `malco-Lategame_Upgrades` dari `1.3.1` menjadi `2.5.1`
+- `Mom_Llama-Lethal_Company_Enhancer` dari `0.1.5` menjadi `0.1.8`
+- `NotAtomicBomb-Terminal_Clock` dari `1.0.2` menjadi `1.0.5`
+- `notnotnotswipez-MoreCompany` dari `1.4.2` menjadi `1.7.2`
+- `Renegades-FlashlightToggle` dari `1.3.1` menjadi `1.4.1`
+- `Sligili-More_Emotes` dari `1.0.0` menjadi `1.1.3`
+- `stormytuna-KindTeleporters` dari `1.0.1` menjadi `1.0.2`
 
 ### Mod yang diubah konfigurasinya pada folder `config`
 - `twig.latecompany.cfg`
@@ -40,7 +40,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 	
 ### Mod yang ditambahkan kembali
 - `Exoni-LethalRebinding-1.0.0*` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
-- `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
+- `oknorton-LethalCompanyBetterScaling` dari `1.3.2` menjadi `1.4.0`
 
 ## [1.0.3] - 30/11/2023
 ### Mod yang ditambahkan dan teruji aman saat Lethal Company v40:
