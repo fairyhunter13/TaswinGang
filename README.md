@@ -6,7 +6,7 @@ Sebuah paket mod untuk Lethal Company.
 
 ## 📃 Jurnal Ubah
 Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGELOG.md](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
-> Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
+> Mod yang membutuhkan [`LavaGang-MelonLoader`](https://github.com/LavaGang/MelonLoader) sebagai pemuatnya ditandai dengan `*`
 
 ## 🔧 Cara Instalasi
 - Ekstrak pemuat mod [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) ke: `~\Lethal Company\`
