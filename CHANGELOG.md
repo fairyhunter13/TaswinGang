@@ -7,7 +7,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - Ekstrak mods di: `Lethal Company\BepInEx`
 - Mods yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
-## [1.4.0] - 13/12/2023
+## [2.0.0] - 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
 
