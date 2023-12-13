@@ -8,13 +8,13 @@
 ## 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
-```console
+    ```console
   Late join orbit only = false
-```
+    ```
 - `VoiceHUD.cfg`
-```console
+    ```console
   Colors enabled = true
-```
+    ```
 
 ### Pembaruan mods saat Lethal Company v45
 
@@ -43,42 +43,42 @@
 
 ## 30/11/2023
 ### Mods yang dicoba dan diuji pada Lethal Company v40:
-- [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
-- [`5Bit-FPSSpectate-1.0.1`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)
-- [`5Bit-VoiceHUD-1.0.4 di`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)
-- [`alexanderjoe-BiggeryBattery-1.0.2`](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)
-- [`anormaltwig-LateCompany-1.0.4`](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)
-- [`Astro-LightSwitchNoMore-1.0.0`](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore)
-- [`Augur-RemoveCameraFilter-1.0.0`](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter)
-- [`Blorb-WeatherMultipliers-0.2.0`](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)
-- [`EladNLG-EladsHUD-1.0.0`](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)
-- [`FlipMods-HotbarPlus-1.2.8`](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)
-- [`FlipMods-LetMeLookDown-1.0.1`](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)
-- [`FlipMods-ReservedFlashlightSlot-1.3.2`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)
-- [`FlipMods-ReservedItemSlotCore-1.2.9`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)
-- [`FlipMods-ReservedWalkieSlot-1.2.2`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)
-- [`loaf-loafpack-1.0.0`](https://thunderstore.io/c/lethal-company/p/loaf/loafpack)
-- [`malco-Lategame_Upgrades-1.3.1`](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)
-- [`Mom_Llama-Lethal_Company_Enhancer-0.1.5`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)
-- [`Monkeytype-HideChat-1.0.0`](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat)
-- [`NotAtomicBomb-Terminal_Clock-1.0.2`](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock)
-- [`notnotnotswipez-MoreCompany-1.4.2`](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
-- [`Renegades-FlashlightToggle-1.3.1`](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)
-- [`Rozebud-FOV_Adjust-1.1.1`](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust)
-- [`Sligili-F_ckYouMOD-1.0.0`](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)
-- [`stormytuna-KindTeleporters-1.0.1`](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)
-- [`Thorlar-HealthStation-1.0.1`](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation)
-- [`VZP_Mods-BetterLethality-1.0.1`](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)
-- [`Zduniusz-24HourClock-1.0.0`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)
-- [`Zduniusz-LBtoKG-1.0.0`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)
+- Ditambahkan [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
+- Ditambahkan [`5Bit-FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) `1.0.1`
+- Ditambahkan [`5Bit-VoiceHUD`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD) `1.0.4`
+- Ditambahkan [`alexanderjoe-BiggeryBattery`](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery) `1.0.2`
+- Ditambahkan [`anormaltwig-LateCompany`](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany) `1.0.4`
+- Ditambahkan [`Astro-LightSwitchNoMore`](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore) `1.0.0`
+- Ditambahkan [`Augur-RemoveCameraFilter`](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter) `1.0.0`
+- Ditambahkan [`Blorb-WeatherMultipliers`](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers) `0.2.0`
+- Ditambahkan [`EladNLG-EladsHUD`](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD) `1.0.0`
+- Ditambahkan [`FlipMods-HotbarPlus`](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus) `1.2.8`
+- Ditambahkan [`FlipMods-LetMeLookDown`](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown) `1.0.1`
+- Ditambahkan [`FlipMods-ReservedFlashlightSlot`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot) `1.3.2`
+- Ditambahkan [`FlipMods-ReservedItemSlotCore`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore) `1.2.9`
+- Ditambahkan [`FlipMods-ReservedWalkieSlot`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot) `1.2.2`
+- Ditambahkan [`loaf-loafpack`](https://thunderstore.io/c/lethal-company/p/loaf/loafpack) `1.0.0`
+- Ditambahkan [`malco-Lategame_Upgrades`](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades) `1.3.1`
+- Ditambahkan [`Mom_Llama-Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) `0.1.5`
+- Ditambahkan [`Monkeytype-HideChat`](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat) `1.0.0`
+- Ditambahkan [`NotAtomicBomb-Terminal_Clock`](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock) `1.0.2`
+- Ditambahkan [`notnotnotswipez-MoreCompany`](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany) `1.4.2`
+- Ditambahkan [`Renegades-FlashlightToggle`](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle) `1.3.1`
+- Ditambahkan [`Rozebud-FOV_Adjust`](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust) `1.1.1`
+- Ditambahkan [`Sligili-F_ckYouMOD`](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes) `1.0.0`
+- Ditambahkan [`stormytuna-KindTeleporters`](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters) `1.0.1`
+- Ditambahkan [`Thorlar-HealthStation`](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation) `1.0.1`
+- Ditambahkan [`VZP_Mods-BetterLethality`](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality) `1.0.1`
+- Ditambahkan [`Zduniusz-24HourClock`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock) `1.0.0`
+- Ditambahkan [`Zduniusz-LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) `1.0.0`
 
 ### Mods konflik menyebabkan disconnect saat menyambungkan ke multiplayer
 - [`Exoni-LethalRebinding`*](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
-### Mods aneh (secara estetis):
+### Mods aneh (secara estetis)
 - `[MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
-Informasi dan legenda:
-- Mom_Llama-Lethal_Company_Enhancer-0.1.5 Ternyata sebelumnya tidak diinstal.
+### Informasi dan legenda
+- [`Mom_Llama-Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) `0.1.5` Ternyata sebelumnya tidak diinstal.
 *) Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
