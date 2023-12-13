@@ -3,7 +3,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.0] - 13/12/2023
 > [!IMPORTANT]
-> Besar kemungkinan versi paket mod ini tidak lagi kompatibel pada Lethal Company v40.
+> Besar kemungkinan paket mod versi ini tidak lagi kompatibel pada Lethal Company v40.
 
 ### Mod yang diperbarui saat Lethal Company v45
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
