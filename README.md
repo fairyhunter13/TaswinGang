@@ -12,7 +12,6 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 - Ekstrak pemuat mod [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) ke: `~\Lethal Company\`
 - Jalankan Lethal Company setidaknya satu kali setelah [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) diinstal.
 - Ekstrak isi dari folder [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) pada pake mod TaswinGang ke: `~\Lethal Company\BepInEx\`
-> Kiat: Disarankan memperbarui mod secepatnya saat Lethal Company merilis pembaruan besar-besaran.
 
 ## 💕 Credits
 ### Big Thanks to The Mod Makers
