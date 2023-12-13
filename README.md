@@ -5,7 +5,7 @@ Sebuah paket mod untuk Lethal Company.
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JunkFood02/Seal?color=black&label=Stable&logo=github)](https://github.com/JunkFood02/Seal/releases/latest/)
 
 ## 📃 Changelog
-Untuk melihat perubahan yang terjadi pada proyek ini silahkan baca [Jurnal Ubah](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
+Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [Jurnal Ubah](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
 
 ## 💕 Credits
 ### Big thanks to the modders
