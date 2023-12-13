@@ -17,7 +17,7 @@ Perubahan mods:
 - twig.latecompany.cfg: Late join orbit only = false
 - VoiceHUD.cfg: Colors enabled = true
 
-Pembaruan mods saat Lethal Company v45:
+### Pembaruan mods saat Lethal Company v45:
 
 - Pembaruan `2018-LC_API` dari `2.0.0` ke `2.1.2`
 
