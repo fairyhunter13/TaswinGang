@@ -4,6 +4,9 @@
 - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
 - Ekstrak mods di: `Lethal Company\BepInEx`
 
+## Legenda
+- Mods yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
+
 ## 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
@@ -70,11 +73,8 @@
 - Ditambahkan [`Zduniusz-LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) `1.0.0`
 
 ### Mods konflik menyebabkan disconnect saat menyambungkan ke multiplayer
-- [`Exoni-LethalRebinding`*](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
+- [`Exoni-LethalRebinding`]*(https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
 ### Mods aneh (secara estetis)
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
-  
-## Legenda
-- * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
