@@ -1,4 +1,4 @@
-# TaswinGange
+# TaswinGang
 Sebuah paket mod untuk Lethal Company. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 ## ⬇ Unduh
