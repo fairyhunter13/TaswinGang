@@ -6,7 +6,7 @@
 - Ekstrak mods di: Lethal Company\BepInEx
 
 ## [13/12/2023]
-### Perubahan konfigurasi mods pada folder `config`:
+### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
 ```console
   Late join orbit only = false
@@ -16,7 +16,7 @@
   Colors enabled = true
 ```
 
-### Pembaruan mods saat Lethal Company v45:
+### Pembaruan mods saat Lethal Company v45
 
 - Pembaruan `2018-LC_API` dari `2.0.0` ke `2.1.2`
 
