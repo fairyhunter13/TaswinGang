@@ -48,8 +48,24 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 ### Mod yang ditambahkan dan teruji aman saat Lethal Company v40:
 |Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
-|2018-LC_API|2.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)]((https://thunderstore.io/c/lethal-company/p/2018/LC_API))|
-|[5Bit-FPSSpectate]|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](((https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)))|
+|2018-LC_API|2.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|5Bit-FPSSpectate|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)|
+|5Bit-VoiceHUD|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)|
+|alexanderjoe-BiggeryBattery|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)|
+|anormaltwig-LateCompany|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
+|Astro-LightSwitchNoMore|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore)|
+|Augur-RemoveCameraFilter|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter)|
+|Blorb-WeatherMultipliers|0.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
+|EladNLG-EladsHUD]|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
+|FlipMods-HotbarPlus|1.2.8|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
+|FlipMods-LetMeLookDown|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)|
+|FlipMods-ReservedFlashlightSlot|1.3.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
+|FlipMods-ReservedItemSlotCore|1.2.9|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|FlipMods-ReservedWalkieSlot|1.2.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
+|loaf-loafpack|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/loaf/loafpack)|
+|malco-Lategame_Upgrades|1.3.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
+|Mom_Llama-Lethal_Company_Enhancer|0.1.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
+> Ternyata mod **Mom_Llama-Lethal_Company_Enhancer** tidak terinstal.
 
 ### Mod yang menyebabkan crash saat mencoba bergabung sesi multipemain
 - [`Exoni-LethalRebinding*`](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding) `1.0.0`
