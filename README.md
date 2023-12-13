@@ -2,10 +2,10 @@
 Sebuah paket mod untuk Lethal Company. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 ## ⬇ Unduh
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/taswingang?color=black&label=Stable&logo=github)](https://github.com/KevinTaswin17/taswingang/releases/latest/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=black&label=Stable&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest/)
 
 ## 📃 Jurnal Ubah
-Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGELOG.md](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
+Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGELOG.md](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md).
 > Mod yang membutuhkan [`LavaGang-MelonLoader`](https://github.com/LavaGang/MelonLoader) sebagai pemuatnya ditandai dengan `*`
 
 ## 🔧 Cara Instalasi
