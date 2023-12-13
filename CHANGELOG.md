@@ -1,13 +1,16 @@
-# Changelog
+# Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
-> [!IMPORTANT]
-> - Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
-> - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) diinstal.
-> - Ekstrak mod di: `Lethal Company\BepInEx`
-> - Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
+## Catatan
+- Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
+- Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) diinstal.
+- Ekstrak mod di: `Lethal Company\BepInEx`
+- Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
 
 ## [2.0.0] - 13/12/2023
+> [!IMPORTANT]
+> Besar kemungkinan versi paket mod ini tidak lagi kompatibel pada Lethal Company v40.
+
 ### Mod yang diperbarui saat Lethal Company v45
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
@@ -45,7 +48,6 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exoni-LethalRebinding-1.0.0*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
-- `` diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 
 ### Mod yang ditambahkan kembali
 |Nama Mod|Versi Sebelumnya|Versi Terkini|Sumber|
@@ -53,7 +55,10 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |oknorton-LethalCompanyBetterScaling|1.3.2|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
 ## [1.0.3] - 30/11/2023
-### Mod yang ditambahkan dan teruji aman saat Lethal Company v40
+> [!CAUTION]
+> Paket mod ini hanya diperuntukan untuk Lethal Company v40. Sebagian tidak lagi berfungsi pada versi terbaru.
+
+### Mod yang ditambahkan
 |Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |2018-LC_API|2.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
