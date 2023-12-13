@@ -33,7 +33,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 > **Sligili-F_ckYouMOD** kini berubah menjadi **Sligili-More_Emotes**.
 
 ### Mod yang ditambahkan kembali
-|Nama Mod|Versi Sebelumnya|Versi Terkini|Sumber|
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |oknorton-LethalCompanyBetterScaling|1.3.2|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
