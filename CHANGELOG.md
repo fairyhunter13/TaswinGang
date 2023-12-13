@@ -11,7 +11,6 @@
 ```console
   Late join orbit only = false
 ```
-
 - `VoiceHUD.cfg`
 ```console
   Colors enabled = true
