@@ -19,42 +19,42 @@ Perubahan mods:
 
 Pembaruan mods saat Lethal Company v45:
 
-2018-LC_API-2.1.2 (sebelumnya v2.0.0)
+- Pembaruan `2018-LC_API` dari `2.0.0` ke `2.1.2`
 
-FlipMods-ReservedWalkieSlot-1.4.6 (sebelumnya v1.2.2)
+- Pembaruan `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
 
-anormaltwig-LateCompany-1.0.6 (sebelumnya v1.0.4)
+- Pembaruan `anormaltwig-LateCompany` dari `1.0.4` ke `1.0.6`
 
-Blorb-WeatherMultipliers-1.0.0 (sebelumnya v0.2.0)
+- Pembaruan `Blorb-WeatherMultipliers` dari `0.2.0` ke `1.0.0`
 
-EladNLG-EladsHUD-1.1.0 (sebelumnya v1.0.0)
+- Pembaruan `EladNLG-EladsHUD` dari `1.0.0` ke  `1.1.0`
 
-FlipMods-HotbarPlus-1.3.2 (sebelumnya v1.2.8)
+- Pembaruan `FlipMods-HotbarPlus` dari `1.2.8` ke `1.3.2`
 
-FlipMods-ReservedFlashlightSlot-1.4.5 (sebelumnya v1.3.2)
+- Pembaruan `FlipMods-ReservedFlashlightSlot` dari `1.3.2` ke `1.4.5`
 
-FlipMods-ReservedItemSlotCore-1.4.4 (sebelumnya v1.2.9)
+- Pembaruan `FlipMods-ReservedItemSlotCore` dari `1.2.9` ke `1.4.4`
 
-FlipMods-ReservedWalkieSlot-1.4.6 (sebelumnya v1.2.2)
+- Pembaruan `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
 
-malco-Lategame_Upgrades-2.5.1 (sebelumnya v1.3.1)
+- Pembaruan `malco-Lategame_Upgrades` dari `1.3.1` ke `2.5.1`
 
-Mom_Llama-Lethal_Company_Enhancer-0.1.8 (sebelumnya v0.1.5)
+- Pembaruan `Mom_Llama-Lethal_Company_Enhancer` dari `0.1.5` ke `0.1.8`
 
-NotAtomicBomb-Terminal_Clock-1.0.5 (sebelumnya v1.0.2)
+- Pembaruan `NotAtomicBomb-Terminal_Clock` dari `1.0.2` ke `1.0.5`
 
-notnotnotswipez-MoreCompany-1.7.2 (sebelumnya v1.4.2)
+- Pembaruan `notnotnotswipez-MoreCompany` dari `1.4.2` ke `1.7.2`
 
-Renegades-FlashlightToggle-1.4.1 (sebelumnya v1.3.1)
+- Pembaruan `Renegades-FlashlightToggle` dari `1.3.1` ke `1.4.1`
 
-Sligili-More_Emotes-1.1.3 (sebelumnya v1.0.0)
+- Pembaruan `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
 
-stormytuna-KindTeleporters-1.0.2 (sebelumnya v1.0.1)
+- Pembaruan `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
 
 	
 Mods yang ditambahkan kembali:
 Exoni-LethalRebinding-1.0.0* diubah ke Bobbie-LethalRebinding-1.0.0 (https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
-oknorton-LethalCompanyBetterScaling-1.4.0 (sebelumnya v1.3.2)
+oknorton-LethalCompanyBetterScaling-1.4.0 dari 1.3.2)
 
 
 [30/11/2023]
