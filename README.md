@@ -5,7 +5,7 @@ Sebuah paket mod untuk Lethal Company.
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JunkFood02/Seal?color=black&label=Stable&logo=github)](https://github.com/JunkFood02/Seal/releases/latest/)
 
 ## 📃 Changelog
-Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
+Untuk melihat perubahan yang terjadi pada proyek ini silahkan baca [Jurnal Ubah](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
 
 ## 💕 Credits
 ### Big thanks to the modders
@@ -43,3 +43,6 @@ Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](
 |Terminal Clock|NotAtomicBomb|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock)|
 |VoiceHUD|5Bit|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)|
 |WeatherMultipliers|Blorb|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
+
+### Support them
+<p><a href="https://paypal.com/stormytunaa"><img src="https://paypal.com/favicon.ico" width="48px" alt="Jack Glossop" /></a><a href="https://ko-fi.com/anormaltwig"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="Twig" /></a><a href="https://ko-fi.com/real2018"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="real2018" /></a><a href="https://ko-fi.com/notnotnotswipez"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="notnotnotswipez" /></a></p>
