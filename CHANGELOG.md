@@ -34,10 +34,9 @@
 - Pembaruan `Renegades-FlashlightToggle` dari `1.3.1` ke `1.4.1`
 - Pembaruan `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
 - Pembaruan `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
-
 	
-Mods yang ditambahkan kembali:
-Exoni-LethalRebinding-1.0.0* diubah ke Bobbie-LethalRebinding-1.0.0 (https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
+### Mods yang ditambahkan kembali:
+- `Exoni-LethalRebinding-1.0.0`* diubah ke `[Bobbie-LethalRebinding-1.0.0](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)`
 oknorton-LethalCompanyBetterScaling-1.4.0 dari 1.3.2)
 
 
