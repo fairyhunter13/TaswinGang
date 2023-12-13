@@ -1,5 +1,4 @@
 # Changelog modpack TaswinGang untuk Lethal Company
-
 ## Catatan
 - Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
 - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
@@ -17,7 +16,6 @@
 ```
 
 ### Pembaruan mods saat Lethal Company v45
-
 - Pembaruan `2018-LC_API` dari `2.0.0` ke `2.1.2`
 - Pembaruan `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
 - Pembaruan `anormaltwig-LateCompany` dari `1.0.4` ke `1.0.6`
@@ -36,10 +34,8 @@
 - Pembaruan `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
 	
 ### Mods yang ditambahkan kembali
-
 - `Exoni-LethalRebinding-1.0.0`* diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
 - - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
-
 
 ## 30/11/2023
 ### Mods yang dicoba dan diuji pada Lethal Company v40:
@@ -77,8 +73,8 @@
 - [`oknorton-LethalCompanyBetterScaling`](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling) `1.3.2`
 
 ### Mods aneh (secara estetis)
-- `[MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
+- [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 ### Informasi dan legenda
 - [`Mom_Llama-Lethal_Company_Enhancer`] `0.1.5` Ternyata sebelumnya tidak diinstal.
-*) Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
+- * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
