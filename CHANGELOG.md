@@ -1,12 +1,6 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
-## Catatan
-- Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
-- Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) diinstal.
-- Ekstrak mod di: `Lethal Company\BepInEx`
-- Mod yang membutuhkan `LavaGang-MelonLoader` sebagai pemuatnya ditandai dengan `*`
-
 ## [2.0.0] - 13/12/2023
 > [!IMPORTANT]
 > Besar kemungkinan versi paket mod ini tidak lagi kompatibel pada Lethal Company v40.
