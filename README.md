@@ -15,7 +15,7 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 
 ## 💕 Credits
 ### Big Thanks to The Mod Makers
-|Mods Name|Original Creator|Source|
+|Mods Name|Creator|Source|
 |:-:|:-:|:-:|
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |BetterLethality|VZP_Mods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
