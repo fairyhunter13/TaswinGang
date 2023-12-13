@@ -5,13 +5,7 @@
 - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
 - Ekstrak mods di: Lethal Company\BepInEx
 
-
-------------------------------
-Perubahan mods:
-==============================
-
-
-### [13/12/2023]
+## [13/12/2023]
 - Perubahan konfigurasi mods (config):
 - twig.latecompany.cfg: Late join orbit only = false
 - VoiceHUD.cfg: Colors enabled = true
