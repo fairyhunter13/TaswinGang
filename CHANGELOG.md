@@ -8,12 +8,12 @@
 ## [13/12/2023]
 ### Perubahan konfigurasi mods (config):
 - `twig.latecompany.cfg`
-- ```json
+- ```console
   Late join orbit only = false
 - ```
 
 - `VoiceHUD.cfg`
-- ```json
+- ```console
   Colors enabled = true
 - ```
 
