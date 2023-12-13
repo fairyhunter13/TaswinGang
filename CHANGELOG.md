@@ -32,15 +32,15 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |stormytuna-KindTeleporters|1.0.1|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
 > **Sligili-F_ckYouMOD** kini berubah menjadi **Sligili-More_Emotes**.
 
-### Mod yang digantikan
-|Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
-|-|:-:|:-:|:-:|:-:|:-:|:-:|
-|Exoni-LethalRebinding-1.0.0*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
-
 ### Mod yang ditambahkan kembali
 |Nama Mod|Versi Sebelumnya|Versi Terkini|Sumber|
 |-|:-:|:-:|:-:|
 |oknorton-LethalCompanyBetterScaling|1.3.2|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
+
+### Mod yang digantikan
+|Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|Exoni-LethalRebinding-1.0.0*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 
 ### Mod yang diubah konfigurasinya dalam folder `BepInEx\config`
 - `twig.latecompany.cfg`
