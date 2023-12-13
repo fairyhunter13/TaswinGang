@@ -1,1 +1,3 @@
-<script src="https://github.com/standard/standard/blob/master/CHANGELOG.md"></script>
+fetch("https://raw.githubusercontent.com/standard/standard/master/CHANGELOG.md")
+      .then(response => response.text())
+      .then(data => document.getElementById('code').textContent = data)
