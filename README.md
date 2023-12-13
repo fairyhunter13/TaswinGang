@@ -1,2 +1,1 @@
-# taswingang
-TaswinGang merupakan modpack untuk Lethal Company
+<script src="https://github.com/standard/standard/blob/master/CHANGELOG.md"></script>
