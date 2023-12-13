@@ -15,10 +15,10 @@ Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](
 |BetterLethality|VZP_Mods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
 |BiggeryBattery|alexanderjoe|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)|
 |EladsHUD]|EladNLG|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
+|F*ckYouMOD (More Emotes)|Sligili|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 |FlashlightToggle|Renegades|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
 |FOV Adjust|Rozebud|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust)|
 |FPSSpectate|5Bit|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)|
-|F*ckYouMOD (More Emotes)|Sligili|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 |HealthStation|Thorlar|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation)|
 |HideChat|Monkeytype|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat)|
 |HotbarPlus|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
@@ -28,10 +28,14 @@ Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](
 |LBtoKG|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)|
 |LC API|2018|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |Lethal Company Enhancer|Mom_Llama|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
+|LethalCompanyBetterScaling|oknorton|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
+|LethalRebinding|Bobbie|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
+|LethalRebinding|Exoni|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|
 |LetMeLookDown|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)|
 |LightSwitchNoMore|Astro|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore)|
 |loafpack|loaf|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/loaf/loafpack)|
 |MoreCompany|notnotnotswipez|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)|
+|PlayerDogModel|MonAmiral|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel)|
 |RemoveCameraFilter|Augur|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter)|
 |ReservedFlashlightSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
 |ReservedItemSlotCore|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
