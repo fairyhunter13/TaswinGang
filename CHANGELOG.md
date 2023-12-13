@@ -3,8 +3,10 @@ Changelog modpack TaswinGang untuk Lethal Company
 Catatan:
 ==============================
 · Pastikan BepInEx (https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
+
 · Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
 · Ekstrak mods di: Lethal Company\BepInEx
+
 
 ------------------------------
 Perubahan mods:
