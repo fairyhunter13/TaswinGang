@@ -40,7 +40,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 ### Mod yang digantikan
 |Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|Exoni-LethalRebinding-1.0.0*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
+|Exoni-LethalRebinding*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 
 ### Mod yang diubah konfigurasinya dalam folder `BepInEx\config`
 - `twig.latecompany.cfg`
