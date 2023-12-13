@@ -2,13 +2,13 @@
 
 ### Sebuah modpack untuk Lethal Company
 
-## Unduh
+## ⬇ Unduh
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JunkFood02/Seal?color=black&label=Stable&logo=github)](https://github.com/JunkFood02/Seal/releases/latest/)
 
-## Changelog
+## 📃 Changelog
 Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
 
-## Credits
+## 💕 Credits
 - [`LC API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) by `2018`
 - [`FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) by `5Bit`
 - [`VoiceHUD`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD) by `5Bit`
