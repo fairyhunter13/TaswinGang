@@ -8,13 +8,13 @@
 ## 13/12/2023
 ### Perubahan konfigurasi mods pada folder `config`
 - `twig.latecompany.cfg`
-    ```console
+```console
   Late join orbit only = false
-    ```
+```
 - `VoiceHUD.cfg`
-    ```console
+```console
   Colors enabled = true
-    ```
+```
 
 ### Pembaruan mods saat Lethal Company v45
 
@@ -80,5 +80,5 @@
 - `[MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 ### Informasi dan legenda
-- [`Mom_Llama-Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) `0.1.5` Ternyata sebelumnya tidak diinstal.
+- [`Mom_Llama-Lethal_Company_Enhancer`] `0.1.5` Ternyata sebelumnya tidak diinstal.
 *) Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
