@@ -61,7 +61,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - [`loaf-loafpack`](https://thunderstore.io/c/lethal-company/p/loaf/loafpack) `1.0.0`
 - [`malco-Lategame_Upgrades`](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades) `1.3.1`
 - [`Mom_Llama-Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) `0.1.5`
-  > Catatan: Ternyata sebelumnya tidak diinstal.
+  > Catatan: Ternyata tidak diinstal.
 - [`Monkeytype-HideChat`](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat) `1.0.0`
 - [`NotAtomicBomb-Terminal_Clock`](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock) `1.0.2`
 - [`notnotnotswipez-MoreCompany`](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany) `1.4.2`
