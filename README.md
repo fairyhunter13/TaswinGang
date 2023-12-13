@@ -8,31 +8,34 @@ Sebuah paket mod untuk Lethal Company.
 Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](https://github.com/KevinTaswin17/taswingang/blob/main/CHANGELOG.md).
 
 ## 💕 Credits
-- [`LC API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) by `2018`
-- [`FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) by `5Bit`
-- [`VoiceHUD`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD) by `5Bit`
-- [`BiggeryBattery`](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery) by `alexanderjoe`
-- [`LateCompany`](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany) by `anormaltwig`
-- [`LightSwitchNoMore`](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore) by `Astro`
-- [`RemoveCameraFilter`](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter) by `Augur`
-- [`WeatherMultipliers`](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers) by `Blorb`
-- [`EladsHUD`](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD) by `EladNLG`
-- [`HotbarPlus`](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus) by `FlipMods`
-- [`LetMeLookDown`](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown) by `FlipMods`
-- [`ReservedFlashlightSlot`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot) by `FlipMods`
-- [`ReservedItemSlotCore`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore) by `FlipMods`
-- [`FlipMods-ReservedWalkieSlot`](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot) `1.2.2`
-- [`loafpack`](https://thunderstore.io/c/lethal-company/p/loaf/loafpack) by `loaf`
-- [`Lategame_Upgrades`](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades) by `malco`
-- [`Lethal_Company_Enhancer`](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer) by `Mom_Llama`
-- [`HideChat`](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat) by `Monkeytype`
-- [`Terminal_Clock`](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock) by `NotAtomicBomb`
-- [`MoreCompany`](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany) by `notnotnotswipez`
-- [`FlashlightToggle`](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle) by `Renegades`
-- [`FOV_Adjust`](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust) by `Rozebud`
-- [`More Emotes`](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes) by `Sligili`
-- [`KindTeleporters`](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters) by `stormytuna`
-- [`HealthStation`](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation) by `Thorlar`
-- [`BetterLethality`](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality) by `VZP_Mods`
-- [`24HourClock`](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock) by `Zduniusz`
-- [`LBtoKG`](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG) by `Zduniusz`
+### Big thanks to the modders
+|Mods Name|Original Creator|Source|
+|:-:|:-:|:-:|
+|24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
+|BetterLethality|VZP_Mods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
+|BiggeryBattery|alexanderjoe|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)|
+|EladsHUD]|EladNLG|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
+|FlashlightToggle|Renegades|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
+|FOV Adjust|Rozebud|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust)|
+|FPSSpectate|5Bit|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)|
+|F*ckYouMOD (More Emotes)|Sligili|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
+|HealthStation|Thorlar|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation)|
+|HideChat|Monkeytype|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat)|
+|HotbarPlus|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
+|KindTeleporters|stormytuna|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
+|LateCompany|anormaltwig|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
+|Lategame Upgrades|malco|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
+|LBtoKG|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)|
+|LC API|2018|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|Lethal Company Enhancer|Mom_Llama|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
+|LetMeLookDown|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)|
+|LightSwitchNoMore|Astro|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore)|
+|loafpack|loaf|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/loaf/loafpack)|
+|MoreCompany|notnotnotswipez|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)|
+|RemoveCameraFilter|Augur|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter)|
+|ReservedFlashlightSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
+|ReservedItemSlotCore|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|ReservedWalkieSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
+|Terminal Clock|NotAtomicBomb|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock)|
+|VoiceHUD|5Bit|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)|
+|WeatherMultipliers|Blorb|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
