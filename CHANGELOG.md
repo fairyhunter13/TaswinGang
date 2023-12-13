@@ -9,7 +9,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.0] - 13/12/2023
 ### Mod yang diperbarui saat Lethal Company v45
-|Nama Mod|Versi Sebelumnya|Versi Terkini|Sumber|
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.0.0|2.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |FlipMods-ReservedWalkieSlot|1.2.2|1.4.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
