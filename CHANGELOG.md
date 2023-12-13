@@ -3,7 +3,7 @@
 ## Catatan
 - Pastikan [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
 - Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
-- Ekstrak mods di: Lethal Company\BepInEx
+- Ekstrak mods di: `Lethal Company\BepInEx`
 
 ## [13/12/2023]
 ### Perubahan konfigurasi mods pada folder `config`
@@ -19,35 +19,20 @@
 ### Pembaruan mods saat Lethal Company v45
 
 - Pembaruan `2018-LC_API` dari `2.0.0` ke `2.1.2`
-
 - Pembaruan `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
-
 - Pembaruan `anormaltwig-LateCompany` dari `1.0.4` ke `1.0.6`
-
 - Pembaruan `Blorb-WeatherMultipliers` dari `0.2.0` ke `1.0.0`
-
 - Pembaruan `EladNLG-EladsHUD` dari `1.0.0` ke  `1.1.0`
-
 - Pembaruan `FlipMods-HotbarPlus` dari `1.2.8` ke `1.3.2`
-
 - Pembaruan `FlipMods-ReservedFlashlightSlot` dari `1.3.2` ke `1.4.5`
-
 - Pembaruan `FlipMods-ReservedItemSlotCore` dari `1.2.9` ke `1.4.4`
-
 - Pembaruan `FlipMods-ReservedWalkieSlot` dari `1.2.2` ke `1.4.6`
-
 - Pembaruan `malco-Lategame_Upgrades` dari `1.3.1` ke `2.5.1`
-
 - Pembaruan `Mom_Llama-Lethal_Company_Enhancer` dari `0.1.5` ke `0.1.8`
-
 - Pembaruan `NotAtomicBomb-Terminal_Clock` dari `1.0.2` ke `1.0.5`
-
 - Pembaruan `notnotnotswipez-MoreCompany` dari `1.4.2` ke `1.7.2`
-
 - Pembaruan `Renegades-FlashlightToggle` dari `1.3.1` ke `1.4.1`
-
 - Pembaruan `Sligili-More_Emotes` dari `1.0.0` ke `1.1.3`
-
 - Pembaruan `stormytuna-KindTeleporters` dari `1.0.1` ke `1.0.2`
 
 	
