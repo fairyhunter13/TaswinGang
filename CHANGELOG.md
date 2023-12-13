@@ -35,7 +35,7 @@
 	
 ### Mods yang ditambahkan kembali
 - `Exoni-LethalRebinding-1.0.0`* diubah ke [`Bobbie-LethalRebinding-1.0.0`](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)
-- - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
+- `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
 
 ## 30/11/2023
 ### Mods yang dicoba dan diuji pada Lethal Company v40:
@@ -74,7 +74,7 @@
 
 ### Mods aneh (secara estetis)
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
-
-### Informasi dan legenda
-> - `Mom_Llama-Lethal_Company_Enhancer` `0.1.5` Ternyata sebelumnya tidak diinstal.
-> * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
+  
+## Informasi dan legenda
+- `Mom_Llama-Lethal_Company_Enhancer` `0.1.5` Ternyata sebelumnya tidak diinstal.
+- * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
