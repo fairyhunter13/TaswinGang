@@ -1,5 +1,5 @@
 # TaswinGang
-Sebuah paket mod untuk Lethal Company.
+Sebuah paket mod untuk Lethal Company. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 ## ⬇ Unduh
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/Seal?color=black&label=Stable&logo=github)](https://github.com/KevinTaswin17/Seal/releases/latest/)
