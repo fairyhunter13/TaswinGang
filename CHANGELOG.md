@@ -9,11 +9,11 @@
 ### Perubahan konfigurasi mods (config):
 - `twig.latecompany.cfg`
 - ```console
-  Late join orbit only = false```
+  Late join orbit only = false
 
 - `VoiceHUD.cfg`
 - ```console
-  Colors enabled = true```
+  Colors enabled = true
 
 ### Pembaruan mods saat Lethal Company v45:
 
