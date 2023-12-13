@@ -43,7 +43,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 - `oknorton-LethalCompanyBetterScaling` dari `1.3.2` ke `1.4.0`
 
 ## [1.0.3] - 30/11/2023
-### Mods yang dicoba dan diuji pada Lethal Company v40:
+### Mods yang ditambahkan dan teruji pada Lethal Company v40:
 - Ditambahkan [`2018-LC_API`](https://thunderstore.io/c/lethal-company/p/2018/LC_API) `2.0.0`
 - Ditambahkan [`5Bit-FPSSpectate`](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate) `1.0.1`
 - Ditambahkan [`5Bit-VoiceHUD`](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD) `1.0.4`
