@@ -6,7 +6,7 @@
 - Ekstrak mods di: Lethal Company\BepInEx
 
 ## [13/12/2023]
-### Perubahan konfigurasi mods (config):
+### Perubahan konfigurasi mods pada folder `config`:
 - `twig.latecompany.cfg`
 ```console
   Late join orbit only = false
