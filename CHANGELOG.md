@@ -78,3 +78,12 @@
 
 ### Mods aneh (secara estetis)
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
+
+## 1.2.0 - 30/11/2023
+Percobaan ketiga pembuatan modpack
+
+## 1.1.0 - 30/11/2023
+Percobaan kedua pembuatan modpack
+
+## 1.0.0 - 30/11/2023
+Percobaan pertama pembuatan modpack
