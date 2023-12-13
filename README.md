@@ -14,7 +14,7 @@ Untuk melihat perubahan yang terjadi pada proyek ini silahkan lihat [Changelog](
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |BetterLethality|VZP_Mods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
 |BiggeryBattery|alexanderjoe|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/BiggeryBattery)|
-|EladsHUD]|EladNLG|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
+|EladsHUD|EladNLG|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
 |F*ckYouMOD (More Emotes)|Sligili|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 |FlashlightToggle|Renegades|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
 |FOV Adjust|Rozebud|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust)|
