@@ -76,5 +76,5 @@
 - [`MonAmiral-PlayerDogModel`](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel) `0.0.1`
 
 ### Informasi dan legenda
-- [`Mom_Llama-Lethal_Company_Enhancer`] `0.1.5` Ternyata sebelumnya tidak diinstal.
-- * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
+> [`Mom_Llama-Lethal_Company_Enhancer`] `0.1.5` Ternyata sebelumnya tidak diinstal.
+> * Mod yang harus dimuat dengan pemuat mod LavaGang-MelonLoader
