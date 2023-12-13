@@ -2,9 +2,9 @@ Changelog modpack TaswinGang untuk Lethal Company
 
 Catatan:
 ==============================
-- · Pastikan BepInEx (https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
-- · Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
-- · Ekstrak mods di: Lethal Company\BepInEx
+- Pastikan BepInEx (https://github.com/BepInEx/BepInEx/releases/latest) sudah diinstal.
+- Pastikan Lethal Company sudah dijalankan setidaknya satu kali setelah BepInEx diinstal.
+- Ekstrak mods di: Lethal Company\BepInEx
 
 
 ------------------------------
@@ -12,10 +12,10 @@ Perubahan mods:
 ==============================
 
 
-[13/12/2023]
-Perubahan konfigurasi mods (config):
-twig.latecompany.cfg: Late join orbit only = false
-VoiceHUD.cfg: Colors enabled = true
+### [13/12/2023]
+- Perubahan konfigurasi mods (config):
+- twig.latecompany.cfg: Late join orbit only = false
+- VoiceHUD.cfg: Colors enabled = true
 
 Pembaruan mods saat Lethal Company v45:
 2018-LC_API-2.1.2 (sebelumnya v2.0.0)
