@@ -11,7 +11,6 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |Evaisa-HookGenPatcher|0.0.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)|
 |Evaisa-LethalLib|0.6.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
 |femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
-|femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
 |femboytv-LethalPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters)|
 |GojoLover14-GojoPaintingPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
 |quackandcheese-MirrorDecor|1.1.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
