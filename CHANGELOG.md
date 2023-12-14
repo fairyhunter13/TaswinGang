@@ -1,6 +1,15 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
+## [2.0.2] - 15/12/2023
+> [!NOTE]
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
+
+### Mod yang ditambahkan
+|Nama Mod|Versi|Sumber|
+|-|:-:|:-:|
+|tinyhoot-ShipLoot|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot)|
+
 ## [2.0.1] - 14/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
