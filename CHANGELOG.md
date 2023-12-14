@@ -9,9 +9,13 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |Ryokune-CompatibilityChecker|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
+|Evaisa-HookGenPatcher|0.0.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)|
+|Evaisa-LethalLib|0.6.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
 |GojoLover14-GojoPaintingPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
 |femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
 |femboytv-LethalPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters)|
+|femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
+|quackandcheese-MirrorDecor|1.1.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
 |Verity-TooManySuits|1.o.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
 |x753-More_Suits|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
