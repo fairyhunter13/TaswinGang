@@ -3,26 +3,28 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.1] - 14/12/2023
 > [!NOTE]
-> Diperbarui saat Lethal Company v45.2 (Build 12922815).
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
 
 ### Mod yang ditambahkan
 |Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
-|Ryokune-CompatibilityChecker|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
 |Evaisa-HookGenPatcher|0.0.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)|
 |Evaisa-LethalLib|0.6.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
-|GojoLover14-GojoPaintingPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
+|femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
 |femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
 |femboytv-LethalPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters)|
-|femboytv-LethalPaintings|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
+|GojoLover14-GojoPaintingPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
 |quackandcheese-MirrorDecor|1.1.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
+|Ryokune-CompatibilityChecker|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
 |Verity-TooManySuits|1.o.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
+|Vibrant-BadGojoSuit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Vibrant/BadGojoSuit)|
 |x753-More_Suits|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
-### Mod yang diperbarui saat Lethal Company v45
+### Mod yang diperbarui
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
-|2018-LC_API|2.0.0|2.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|2018-LC_API|2.1.2|2.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|Sligili-More_Emotes|1.1.3|1.2.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 
 ## [2.0.0] - 13/12/2023
 > [!IMPORTANT]
@@ -32,7 +34,6 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.0.0|2.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
-|FlipMods-ReservedWalkieSlot|1.2.2|1.4.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 |anormaltwig-LateCompany|1.0.4|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
 |Blorb-WeatherMultipliers|0.2.0|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
 |EladNLG-EladsHUD|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD)|
