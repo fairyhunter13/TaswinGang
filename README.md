@@ -56,6 +56,7 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 |ReservedFlashlightSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
 |ReservedItemSlotCore|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
 |ReservedWalkieSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
+|ShipLoot|tinyhoot|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot)|
 |Terminal Clock|NotAtomicBomb|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock)|
 |TooManySuits|Verity|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
 |VoiceHUD|5Bit|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD)|
