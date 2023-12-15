@@ -10,11 +10,11 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 
 ## 🔧 Cara Instalasi
 - Ekstrak pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) ke: `~\Lethal Company\`
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" height="300px" /></p>
+  <p><img src="https://i.imgur.com/lOP6RJx.png" height="300px" /></p>
 - Jalankan Lethal Company setidaknya satu kali setelah pengekstrakan
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" height="300px" /></p>
+  <p><img src="https://i.imgur.com/lOP6RJx.png" height="300px" /></p>
 - Buka paket mod TaswinGang menggunakan 7-Zip. Lalu pilih folder `BepInEx` kemudian pilih opsi Ekstrak ke: `~\Lethal Company\`
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" height="300px" /></p>
+  <p><img src="https://i.imgur.com/lOP6RJx.png" height="300px" /></p>
 
 
 ## 💕 Credits
