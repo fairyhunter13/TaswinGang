@@ -5,7 +5,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
 
-### - Ditambahkan
+### Ditambahkan
 |Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |armablign-MaidOutfit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/armablign/MaidOutfit)|
