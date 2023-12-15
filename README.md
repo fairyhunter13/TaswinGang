@@ -18,7 +18,7 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 
 
 
-- Ekstrak isi dari folder `BepInEx` pada paket mod TaswinGang ke: `~\Lethal Company\BepInEx\`
+- Buka paket mod TaswinGang menggunakan 7-Zip. Lalu pilih folder `BepInEx` kemudian pilih opsi Ekstrak ke: `~\Lethal Company\`
 
 ## 💕 Credits
 ### Big Thanks to The Mod Makers
