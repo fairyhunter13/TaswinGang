@@ -31,6 +31,12 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |ViViKo-ViViKoCosmetics|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 |YELLOWGLASS-Yellowglass_Vibrant_Suits|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
 
+### Diperbarui
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
+|-|:-:|:-:|:-:|
+|x753-More_Suits|1.4.0|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
+|malco-Lategame_Upgrades|2.5.1|2.6.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
+
 ## [2.0.2] - 15/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
