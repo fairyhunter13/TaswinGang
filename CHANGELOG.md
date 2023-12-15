@@ -1,6 +1,36 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
+## [2.0.3] - 15/12/2023
+> [!NOTE]
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
+
+### Ditambahkan
+|Nama Mod|Versi|Sumber|
+|-|:-:|:-:|
+|armablign-MaidOutfit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/armablign/MaidOutfit)|
+|A_Really_Big_Dog-Yakuza_Suits|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/A_Really_Big_Dog/Yakuza_Suits)|
+|Banana_Bong_Co-Brenden_suit|0.0.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Banana_Bong_Co/Brenden_suit)|
+|BatTeam-LethalFashion|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion)|
+|BepInEx_Unofficial-BepInEx_ConfigurationManager|18.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/BepInEx_Unofficial/BepInEx_ConfigurationManager)|
+|BepInEx_Unofficial-BepInEx_GraphicsSettings|1.3.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/BepInEx_Unofficial/BepInEx_GraphicsSettings)|
+|CapyCat-Solos_Bodycams|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams)|
+|CD-BoomboxVolumeAdjuster|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/CD/BoomboxVolumeAdjuster)|
+|Deviants-DinkleSuits|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Deviants/DinkleSuits)|
+|Dielji-StreamerSuits|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
+|Diversion-MaidOutfitFix|1.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Diversion/MaidOutfitFix)|
+|Dwarggo-Fashion_Company|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company)|
+|Glitch-RankFix|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Glitch/RankFix)|
+|itsmeowdev-DoorFix|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)|
+|kRYstall9-FastSwitchPlayerViewInRadar|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar)|
+|Kyamu-Kyamu_Suit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Kyamu/Kyamu_Suit)|
+|LCUltrawide|1.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide)|
+|MegaPiggy-InsanityMeter|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MegaPiggy/InsanityMeter)|
+|RugbugRedfern-Skinwalkers|2.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers)|
+|ViViKo-MoreMaterials|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
+|ViViKo-ViViKoCosmetics|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
+|YELLOWGLASS-Yellowglass_Vibrant_Suits|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
+
 ## [2.0.2] - 15/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
