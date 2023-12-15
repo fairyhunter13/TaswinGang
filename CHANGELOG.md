@@ -54,7 +54,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |GojoLover14-GojoPaintingPosters|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
 |quackandcheese-MirrorDecor|1.1.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
 |Ryokune-CompatibilityChecker|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
-|Verity-TooManySuits|1.o.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
+|Verity-TooManySuits|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
 |Vibrant-BadGojoSuit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Vibrant/BadGojoSuit)|
 |x753-More_Suits|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
