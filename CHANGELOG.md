@@ -3,7 +3,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.3] - 15/12/2023
 > [!NOTE]
-> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
 
 ### Ditambahkan
 |Nama Mod|Versi|Sumber|
