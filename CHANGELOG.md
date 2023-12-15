@@ -24,7 +24,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |itsmeowdev-DoorFix|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)|
 |kRYstall9-FastSwitchPlayerViewInRadar|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar)|
 |Kyamu-Kyamu_Suit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Kyamu/Kyamu_Suit)|
-|LCUltrawide|1.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide)|
+|stefan750-LCUltrawide|1.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide)|
 |MegaPiggy-InsanityMeter|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MegaPiggy/InsanityMeter)|
 |RugbugRedfern-Skinwalkers|2.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers)|
 |ViViKo-MoreMaterials|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
