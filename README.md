@@ -11,11 +11,11 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 ## 🔧 Cara Instalasi
   Perhatian: [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
 - Pilih semua items pada berkas pemuat mod [`BepInEx_x64_x.x.xx.x`](https://github.com/BepInEx/BepInEx/releases/latest) kemudian Ekstrak ke folder instalasi `Lethal Company`.
-  <p><img src="Guide/Step 1.gif" width="auto" /></p>
+  <p><img src="Assets/Step 1.gif" width="auto" /></p>
 - Jalankan Lethal Company setidaknya satu kali supaya pemuat mod dapat terbaca dan berfungsi.
-  <p><img src="Guide/Step 2.gif" width="auto" /></p>
+  <p><img src="Assets/Step 2.gif" width="auto" /></p>
 - Pilih folder `BepInEx` pada berkas paket mod TaswinGang kemudian Ekstrak ke folder instalasi `Lethal Company`.
-  <p><img src="Guide/Step 3.gif" width="auto" /></p>
+  <p><img src="Assets/Step 3.gif" width="auto" /></p>
 
 ## 💕 Credits
 ### Big Thanks to The Plugin & Mod Makers
