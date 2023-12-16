@@ -9,14 +9,14 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
 > Mod yang membutuhkan [`LavaGang-MelonLoader`](https://github.com/LavaGang/MelonLoader) sebagai pemuatnya ditandai dengan `*`
 
 ## 🔧 Cara Instalasi
-  [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
+  Perhatian: [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
 
-- Ekstrak [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) ke: `~\Lethal Company\`
-  <p><img src="Guide/Step 1.gif" width="500" /></p>
-- Jalankan Lethal Company setidaknya satu kali setelah pengekstrakan.
-  <p><img src="Guide/Step 2.gif" width="500" /></p>
-- Buka paket mod TaswinGang menggunakan 7-Zip. Lalu pilih folder `BepInEx` kemudian pilih opsi Ekstrak ke: `~\Lethal Company\`
-  <p><img src="Guide/Step 3.gif" width="500" /></p>
+- Pilih semua items pada berkas pemuat mod [`BepInEx_x64_x.x.xx.x`](https://github.com/BepInEx/BepInEx/releases/latest) kemudian Ekstrak ke folder instalasi: `~\Lethal Company\`
+  <p><img src="Guide/Step 1.gif" width="auto" /></p>
+- Jalankan Lethal Company setidaknya satu kali supaya pemuat mod dapat terbaca dan berfungsi.
+  <p><img src="Guide/Step 2.gif" width="auto" /></p>
+- Pilih folder `BepInEx` pada berkas paket mod TaswinGang kemudian Ekstrak ke folder instalasi: `~\Lethal Company\`
+  <p><img src="Guide/Step 3.gif" width="auto" /></p>
 
 ## 💕 Credits
 ### Big Thanks to The Mod Makers
