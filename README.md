@@ -1,13 +1,12 @@
 <img width="" src="Assets/TaswinGang Logo.jpeg" width=172 height=172>
 
 # TaswinGang
-Sebuah paket mod untuk Lethal Company. Jumlah terkini telah mencapai 66 mod. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
+Sebuah paket mod untuk Lethal Company. Terdapat 66 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=black&label=Unduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest/)
-
-## 📃 Jurnal Ubah
-Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGELOG.md](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md).
-> Mod yang membutuhkan [`LavaGang-MelonLoader`](https://github.com/LavaGang/MelonLoader) sebagai pemuatnya ditandai dengan `*`
+[![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Unduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
+[![Jurnal Ubah](https://img.shields.io/badge/Jurnal_Ubah-Lihat-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md)
+[![GitHub Total Unduhan](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Diunduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
+[![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Difavorit)](https://github.com/KevinTaswin17/TaswinGang/stargazers)
 
 ## 🔧 Cara Instalasi
   Perhatian: [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
