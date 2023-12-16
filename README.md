@@ -1,8 +1,9 @@
-# TaswinGang <br> <img width="" src="Assets/TaswinGang Logo.jpeg" width=128px height=128px align="center" style="margin-top: 10px;"/>
-Sebuah paket mod untuk Lethal Company. Jumlah terkini sudah mencapai 66 mod. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
+<img width="" src="Assets/TaswinGang Logo.jpeg" width=172 height=172>
 
-## ⬇ Unduh
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=black&label=Stable&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest/)
+# TaswinGang
+Sebuah paket mod untuk Lethal Company. Jumlah terkini telah mencapai 66 mod. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=black&label=Unduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest/)
 
 ## 📃 Jurnal Ubah
 Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGELOG.md](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md).
