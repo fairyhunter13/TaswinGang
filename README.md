@@ -1,4 +1,4 @@
-# TaswinGang
+# TaswinGang <br> <img width="" src="Assets/TaswinGang Logo.jpeg" width=128px height=128px align="center" style="margin-top: 7px;"/>
 Sebuah paket mod untuk Lethal Company. Jumlah terkini sudah mencapai 66 mod. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 ## ⬇ Unduh
