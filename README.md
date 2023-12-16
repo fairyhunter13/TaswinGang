@@ -1,5 +1,5 @@
 # TaswinGang
-Sebuah paket mod untuk Lethal Company. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
+Sebuah paket mod untuk Lethal Company. Kini sudah terdapat 66 mod. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 ## ⬇ Unduh
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=black&label=Stable&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest/)
@@ -18,7 +18,7 @@ Untuk melihat semua perubahan yang terjadi pada proyek ini silahkan baca [CHANGE
   <p><img src="Guide/Step 3.gif" width="auto" /></p>
 
 ## 💕 Credits
-### Big Thanks to The Mod Makers
+### Big Thanks to The Plugin & Mod Makers
 |Mods Name|Creator|Source|
 |:-:|:-:|:-:|
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
