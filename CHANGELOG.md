@@ -1,7 +1,7 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
-## [2.0.3] - 15/12/2023
+## [2.0.3] - 16/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
 
@@ -17,25 +17,28 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |CapyCat-Solos_Bodycams|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Bodycams)|
 |CD-BoomboxVolumeAdjuster|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/CD/BoomboxVolumeAdjuster)|
 |Deviants-DinkleSuits|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Deviants/DinkleSuits)|
-|Dielji-StreamerSuits|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
+|Dielji-StreamerSuits|1.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
 |Diversion-MaidOutfitFix|1.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Diversion/MaidOutfitFix)|
 |Dwarggo-Fashion_Company|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company)|
 |Glitch-RankFix|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Glitch/RankFix)|
 |itsmeowdev-DoorFix|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)|
-|kRYstall9-FastSwitchPlayerViewInRadar|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar)|
-|Kyamu-Kyamu_Suit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Kyamu/Kyamu_Suit)|
+|kRYstall9-FastSwitchPlayerViewInRadar|1.3.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/kRYstall9/FastSwitchPlayerViewInRadar)|
+|Kyamu-Kyamu_Suit|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Kyamu/Kyamu_Suit)|
 |stefan750-LCUltrawide|1.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide)|
 |MegaPiggy-InsanityMeter|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MegaPiggy/InsanityMeter)|
 |RugbugRedfern-Skinwalkers|2.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers)|
-|ViViKo-MoreMaterials|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
-|ViViKo-ViViKoCosmetics|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
+|ViViKo-MoreMaterials|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
+|ViViKo-ViViKoCosmetics|1.4.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 |YELLOWGLASS-Yellowglass_Vibrant_Suits|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
 
 ### Diperbarui
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
-|x753-More_Suits|1.4.0|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
+|Evaisa-LethalLib|0.6.2|0.6.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
+|FlipMods-HotbarPlus|1.3.2|1.3.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
 |malco-Lategame_Upgrades|2.5.1|2.6.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
+|Ryokune-CompatibilityChecker|1.0.6|1.1.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
+|x753-More_Suits|1.4.0|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
 ## [2.0.2] - 15/12/2023
 > [!NOTE]
