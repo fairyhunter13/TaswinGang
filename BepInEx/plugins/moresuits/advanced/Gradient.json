@@ -1,5 +1,3 @@
 {
-	"_AlphaCutoffEnable": 1,
-	"_ZTestGBuffer": 3,
-	"_ALPHATEST_ON": "KEYWORD"
+	"MATERIAL": "MoreMaterials-Transparent"
 }
