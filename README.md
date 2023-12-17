@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-A modpack for Lethal Company. Includes 66 most popular mods. Depends on [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
+A modpack for Lethal Company. Includes 66 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
 
 English
 &nbsp;|&nbsp;
@@ -10,21 +10,21 @@ English
 [![GitHub Download](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Latest&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
 [![Changelog](https://img.shields.io/badge/Changelog-See-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md)
 [![GitHub Total Downloads](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Downloads&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
-[![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Stars)](https://github.com/KevinTaswin17/TaswinGang/stargazers)
+[![GitHub Repo Favorites](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Stars)](https://github.com/KevinTaswin17/TaswinGang/stargazers)
 </div>
 
 ## 🔧 How to Install
-  Attention: [`7-Zip`](https://www.7-zip.org/) is highly recommended during extraction process.
-- Select all items in [`BepInEx_x64_x.x.xx.x.zip`](https://github.com/BepInEx/BepInEx/releases/latest) modloader file then Extract it to `Lethal Company` installation folder.
+  Attention: [`7-Zip`](https://www.7-zip.org/) is highly recommended during the extraction process.
+- Select all items in the [`BepInEx_x64_x.x.xx.x.zip`](https://github.com/BepInEx/BepInEx/releases/latest) modloader file then Extract it to the `Lethal Company` installation folder.
   <p><img src="Assets/Step 1.gif" width="auto" /></p>
-- Run Lethal Company at least once in order to get the modloader recognized.
+- Run the Lethal Company at least once in order to get the modloader recognized.
   <p><img src="Assets/Step 2.gif" width="auto" /></p>
-- Select `BepInEx` folder in TaswinGang modpack file then Extract it to `Lethal Company` installation folder.
+- Select the `BepInEx` folder inside the TaswinGang modpack file then Extract it to the `Lethal Company` installation folder.
   <p><img src="Assets/Step 3.gif" width="auto" /></p>
 
 ## 💕 Credits
-### Big Thanks to The Plugin & Mod Makers
-|Mods Name|Creator|Source|
+### Big Thanks For The Plugin & Mod Developers
+|Plugin/Mod Name|Creator|Source|
 |:-:|:-:|:-:|
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |BadGojoSuit|Vibrant|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Vibrant/BadGojoSuit)|
@@ -93,5 +93,5 @@ English
 |Yakuza_Suits|A_Really_Big_Dog|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/A_Really_Big_Dog/Yakuza_Suits)|
 |Yellowglass_Vibrant_Suits|YELLOWGLASS|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
 
-### Support The Mod Makers
+### Support The Plugin & Mod Developers
 <p><a href="https://ko-fi.com/evaisa"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="Evaisa" /></a><a href="https://patreon.com/its_meow"><img src="https://patreon.com/favicon.ico" width="48px" alt="its_meow" /></a><a href="https://www.paypal.com/paypalme/stormytunaa"><img src="https://paypal.com/favicon.ico" width="48px" alt="Jack Glossop" /></a><a href="https://ko-fi.com/notnotnotswipez"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="notnotnotswipez" /></a><a href="https://www.patreon.com/quackandcheese"><img src="https://patreon.com/favicon.ico" width="48px" alt="quackandcheese" /></a><a href="https://ko-fi.com/real2018"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="real2018" /></a><a href="https://ko-fi.com/anormaltwig"><img src="https://ko-fi.com/favicon.ico" width="48px" alt="Twig" /></a><a href="https://blockchair.com/bitcoin/address/bc1qz2qd0usa5ek48tfkwvgxmrmk034ytn2x5cm9l9"><img src="https://blockchair.com/favicon.ico" width="48px" alt="Verity" /></a><a href="https://www.patreon.com/x753"><img src="https://patreon.com/favicon.ico" width="48px" alt="x753" /></a></p>
