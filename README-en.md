@@ -5,7 +5,7 @@ A modpack for Lethal Company. Includes 66 most popular mods. Depends on the [`Be
 
 English
 &nbsp;|&nbsp;
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README-id.md">Indonesian</a>
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Indonesian</a>
 
 [![GitHub Download](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Latest&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
 [![Changelog](https://img.shields.io/badge/Changelog-See-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md)
