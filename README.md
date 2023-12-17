@@ -3,7 +3,7 @@
 
 Sebuah paket mod untuk Lethal Company. Terdapat 66 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Bahasa Inggris (English)</a>
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README-en.md">Bahasa Inggris (English)</a>
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
