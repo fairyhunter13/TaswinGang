@@ -15,7 +15,7 @@ Bahasa Indonesia
 
 ## 🔧 Cara Instalasi
   Perhatian: [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
-- Pilih semua items pada berkas pemuat mod [`BepInEx_x64_x.x.xx.x`](https://github.com/BepInEx/BepInEx/releases/latest) kemudian Ekstrak ke folder instalasi `Lethal Company`.
+- Pilih semua items pada berkas pemuat mod [`BepInEx_x64_x.x.xx.x.zip`](https://github.com/BepInEx/BepInEx/releases/latest) kemudian Ekstrak ke folder instalasi `Lethal Company`.
   <p><img src="Assets/Step 1.gif" width="auto" /></p>
 - Jalankan Lethal Company setidaknya satu kali supaya pemuat mod dapat terbaca dan berfungsi.
   <p><img src="Assets/Step 2.gif" width="auto" /></p>

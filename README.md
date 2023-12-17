@@ -15,7 +15,7 @@ English
 
 ## 🔧 How to Install
   Attention: [`7-Zip`](https://www.7-zip.org/) is highly recommended during extraction process.
-- Select all items in [`BepInEx_x64_x.x.xx.x`](https://github.com/BepInEx/BepInEx/releases/latest) modloader file then Extract it to `Lethal Company` installation folder.
+- Select all items in [`BepInEx_x64_x.x.xx.x.zip`](https://github.com/BepInEx/BepInEx/releases/latest) modloader file then Extract it to `Lethal Company` installation folder.
   <p><img src="Assets/Step 1.gif" width="auto" /></p>
 - Run Lethal Company at least once in order to get the modloader recognized.
   <p><img src="Assets/Step 2.gif" width="auto" /></p>
