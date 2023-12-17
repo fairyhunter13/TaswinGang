@@ -1,12 +1,13 @@
-<img width="" src="icon.png" width=172 height=172>
+<h1 align="center"><a alt="Ikon TaswinGang"><img src="icon.png" width="172"></a><br>TaswinGang<br></h1>
+<div align="center">
 
-# TaswinGang
 Sebuah paket mod untuk Lethal Company. Terdapat 66 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 [![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Unduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
 [![Jurnal Ubah](https://img.shields.io/badge/Jurnal_Ubah-Lihat-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md)
 [![GitHub Total Unduhan](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Diunduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
 [![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Difavorit)](https://github.com/KevinTaswin17/TaswinGang/stargazers)
+</div>
 
 ## 🔧 Cara Instalasi
   Perhatian: [`7-Zip`](https://www.7-zip.org/) sangat dianjurkan dalam proses pengekstrakan.
