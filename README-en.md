@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-A modpack for Lethal Company. Includes 66 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
+A modpack for Lethal Company. Includes 64 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
 
 English
 &nbsp;|&nbsp;
@@ -61,8 +61,6 @@ English
 |LethalCompanyBetterScaling|oknorton|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 |LethalFashion|BatTeam|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion)|
 |LethalLib|Evaisa|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
-|LethalPaintings|femboytv|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|
-|LethalPosters|femboytv|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters)|
 |LethalRebinding|Bobbie|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 |LethalRebinding|Exoni|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|
 |LetMeLookDown|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)|
