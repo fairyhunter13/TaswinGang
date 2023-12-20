@@ -1,16 +1,16 @@
-<h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
+<h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/fairyhunter13/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
 Sebuah paket mod untuk Lethal Company. Terdapat 64 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README-en.md">Bahasa Inggris (English)</a>
+<a href="https://github.com/fairyhunter13/TaswinGang/blob/main/README-en.md">Bahasa Inggris (English)</a>
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
-[![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Terkini&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
-[![Jurnal Ubah](https://img.shields.io/badge/Jurnal_Ubah-Lihat-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG.md)
-[![GitHub Total Unduhan](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Diunduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
-[![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Difavorit)](https://github.com/KevinTaswin17/TaswinGang/stargazers)
+[![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Terkini&logo=github)](https://github.com/fairyhunter13/TaswinGang/releases/latest)
+[![Jurnal Ubah](https://img.shields.io/badge/Jurnal_Ubah-Lihat-0B839D?logo=keepachangelog)](https://github.com/fairyhunter13/TaswinGang/blob/main/CHANGELOG.md)
+[![GitHub Total Unduhan](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Diunduh&logo=github)](https://github.com/fairyhunter13/TaswinGang/releases)
+[![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Difavorit)](https://github.com/fairyhunter13/TaswinGang/stargazers)
 </div>
 
 ## 🔧 Cara Instalasi
